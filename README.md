@@ -4,4 +4,4 @@
 
 # Halaman Dashboard Admin
 
-![image alt]()
+![image alt](https://github.com/rifkyom/Sistem-Manajemen-Rumah-Sakit/blob/main/Tampilan%20Admin.jpeg?raw=true)
